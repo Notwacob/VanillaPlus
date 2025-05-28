@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "vanillaplus:zircon_ore",
+    "vanillaplus:zircon_block",
+    "vanillaplus:deepslate_zircon_ore"
+  ]
+}

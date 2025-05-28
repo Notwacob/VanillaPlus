@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "vanillaplus:ruby_ore",
+    "vanillaplus:ruby_block",
+    "vanillaplus:deepslate_ruby_ore",
+    "vanillaplus:sapphire_ore",
+    "vanillaplus:sapphire_block",
+    "vanillaplus:deepslate_sapphire_ore"
+  ]
+}

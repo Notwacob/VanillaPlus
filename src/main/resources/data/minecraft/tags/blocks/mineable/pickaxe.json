@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "vanillaplus:zircon_ore",
+    "vanillaplus:zircon_block",
+    "vanillaplus:deepslate_zircon_ore",
+    "vanillaplus:ruby_ore",
+    "vanillaplus:ruby_block",
+    "vanillaplus:deepslate_ruby_ore",
+    "vanillaplus:sapphire_ore",
+    "vanillaplus:sapphire_block",
+    "vanillaplus:deepslate_sapphire_ore"
+  ]
+}

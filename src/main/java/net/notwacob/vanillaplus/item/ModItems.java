@@ -6,6 +6,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.notwacob.vanillaplus.VanillaPlus;
+import net.notwacob.vanillaplus.item.custom.EightBallItem;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
@@ -19,6 +20,8 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.VANILLAPLUS_TAB)));
     public static final RegistryObject<Item> SAPPHIRE = ITEMS.register("sapphire",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.VANILLAPLUS_TAB)));
+    public static final RegistryObject<Item> EIGHT_BALL = ITEMS.register("eight_ball",
+            () -> new EightBallItem(new Item.Properties().tab(ModCreativeModeTab.VANILLAPLUS_TAB).stacksTo(1)));
 
 
     public static void register(IEventBus eventBus) {

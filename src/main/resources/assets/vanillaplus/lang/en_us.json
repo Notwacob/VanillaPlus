@@ -3,6 +3,7 @@
   "item.vanillaplus.raw_zircon": "Raw Zircon",
   "item.vanillaplus.ruby": "Ruby",
   "item.vanillaplus.sapphire": "Sapphire",
+  "item.vanillaplus.eight_ball": "Magic Eight Ball",
 
   "block.vanillaplus.zircon_block": "Block of Zircon",
   "block.vanillaplus.sapphire_block": "Block of Sapphire",
@@ -13,7 +14,6 @@
   "block.vanillaplus.deepslate_ruby_ore": "Deepslate Ruby Ore",
   "block.vanillaplus.sapphire_ore": "Sapphire Ore",
   "block.vanillaplus.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
-
 
   "itemGroup.vanillaplustab": "Vanilla Plus"
 }
