@@ -3,5 +3,10 @@
   "item.vanillaplus.raw_zircon": "Raw Zircon",
   "item.vanillaplus.ruby": "Ruby",
   "item.vanillaplus.sapphire": "Sapphire",
+
+  "block.vanillaplus.zircon_block": "Block of Zircon",
+  "block.vanillaplus.zircon_ore": "Zircon Ore",
+  "block.vanillaplus.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
   "itemGroup.vanillaplustab": "Vanilla Plus"
 }
