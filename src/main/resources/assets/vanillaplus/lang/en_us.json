@@ -5,8 +5,15 @@
   "item.vanillaplus.sapphire": "Sapphire",
 
   "block.vanillaplus.zircon_block": "Block of Zircon",
+  "block.vanillaplus.sapphire_block": "Block of Sapphire",
+  "block.vanillaplus.ruby_block": "Block of Ruby",
   "block.vanillaplus.zircon_ore": "Zircon Ore",
   "block.vanillaplus.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.vanillaplus.ruby_ore": "Ruby Ore",
+  "block.vanillaplus.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.vanillaplus.sapphire_ore": "Sapphire Ore",
+  "block.vanillaplus.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+
 
   "itemGroup.vanillaplustab": "Vanilla Plus"
 }
