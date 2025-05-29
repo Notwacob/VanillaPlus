@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D"
+    ],
+    "key": {
+        "#": {
+            "tag": "vanillaplus:shovels"
+        },
+        "D": {
+            "item": "minecraft:dirt"
+        }
+    },
+    "result": {
+        "item": "minecraft:dirt_path",
+        "count": 1
+    }
+}
